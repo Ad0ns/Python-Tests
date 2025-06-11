@@ -1,4 +1,3 @@
-
 cel = float(input("give celsious temp: "))
 
 kelvin = cel + 273.25
